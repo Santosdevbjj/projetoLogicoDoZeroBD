@@ -4,11 +4,12 @@
 ![424177954-d113c96b-bb05-4230-bfaf-d104279fed1c](https://github.com/user-attachments/assets/67ec4c05-e7b3-4793-a1e3-e81e663419b3)
 
 
-
-## Análise do Esquema Conceitual e Geração do Esquema Lógico
-
+ **Análise do Esquema Conceitual e Geração do Esquema Lógico.**
+ 
+- 
 **O esquema conceitual apresenta as seguintes entidades e relacionamentos:
 Entidades:**
+
 
 **CLIENTE:** Representa os clientes da oficina.
 
